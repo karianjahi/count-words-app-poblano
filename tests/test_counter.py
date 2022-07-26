@@ -5,7 +5,7 @@ This is the module that tests the count_words script
 # pylint: disable=R0201
 # pylint: disable=W0106
 import pytest
-from count_words import WordCounter
+from count_words_app_poblano.count_words import WordCounter
 
 
 class TestWordCounter:

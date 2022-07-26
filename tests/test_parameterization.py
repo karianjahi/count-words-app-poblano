@@ -5,7 +5,7 @@ We use test parameterization to test all methods
 # pylint: disable=W0106
 # pylint: disable=E1121
 import pytest
-from count_words import WordCounter
+from count_words_app_poblano.count_words import WordCounter
 
 MY_TESTS = [
     ("", 0),
